@@ -1,0 +1,1070 @@
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1200px) and (max-width: 1366px) {
+	.sticky{
+		display: none;
+	}
+	.gallery2-thumb .overly-caption {
+		left: 40px;
+		top: 40px;
+	}
+	.gallery2-thumb .overlay-links {
+	    bottom: 40px;
+	    left: 40px;
+	    right: inherit;
+	}
+
+	.comingsoon-caption span{
+		margin-bottom: 50px;
+		line-height: 100px;
+		font-size: 100px;
+	}
+	.comingsoon-dec form{
+		margin-bottom: 60px;
+	}
+	.comingsoon-caption{
+		margin-top: -295px;   
+	}
+	.counter-wrap li{
+		margin-right: 2%;
+	}
+}
+/*
+=================================================
+			FROM 992PX TO 1199PX
+=================================================
+*/ 
+@media (min-width: 992px) and (max-width: 1199px) {
+	.sticky{
+		display: none;
+	}
+	.top-contact{
+		padding:0; 
+	}
+	.top-contact .text em{
+		font-size: 13px;
+	}
+	.kode-menu li{
+		padding-right: 19px;
+		padding-left: 19px;
+	}
+	.kode-caption{
+		margin-left: -440px;
+		margin-top: 0;
+	}
+	.kode-caption h4{
+		font-size: 34px;
+	}
+	.kode-caption h3{
+		font-size: 44px;
+		margin-bottom: 99px;
+	}
+	.kode-caption h3::before{
+		border-width: 0 0 60px 30px;
+	}
+	.kode-caption h4::before{
+		border-width: 60px 30px 0 0;
+	}
+	.kf-gym-banner .bx-wrapper .bx-controls-direction a{
+		margin-top: 143px;
+	}
+	.traning-overlay{
+		padding:30px; 
+	}
+	.thumb-des .text h5{
+		margin-bottom: 0;
+	}
+	.thumb-des .text p{
+		font-size: 15px;
+	}
+	.class-dec figure::before{
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+	}
+	.over-lay p{
+		padding: 0;
+	}
+	.class-dec:hover .over-lay{
+		margin-top: -109px;
+	}
+	.over-lay h3{
+		padding: 13px 0;
+	}
+	.counter-wrap li{
+		margin-right: 2%;
+	}
+	.counter-dec > span{
+		height: 100px;
+		width: 100px;
+		line-height: 100px;
+	}
+	.counter-dec .text{
+		padding:17px 0 18px 20px;
+	}
+	.social-wrap{
+		margin-top: -133px;
+	}
+	.social-wrap li {
+		height: 38px;
+	}
+	.social-wrap li {
+		line-height: 38px;
+	}
+	.traniers-caption{
+		left: 20px;
+		right: 82px;
+		margin-top: -102px;
+	}
+	.ready-wrap{
+		padding: 80px 0;
+	}
+	.blog-dec .text h4{
+		font-size: 25px;
+	}
+	.gallery-thumb {
+	    width: 49.97%;
+	}
+	.gallery2-thumb .overly-caption{
+		top: 30px;
+		left: 30px;
+	}
+
+	.gallery2-thumb .overlay-links{
+		bottom: 30px;
+		left: 30px;
+		right: inherit;
+	}
+	.gallery2-thumb{
+		width:100%; 
+	}
+
+	.price-tag{
+		padding: 0 50px;
+	}
+	.testimonial-dec{
+		padding: 0 150px;
+	}
+	.widget-contact ul li a, .widget-contact ul li{
+		font-size: 15px;
+	}
+	.widget-timing ul li,
+	.widget-timing ul li span{
+		font-size: 15px;
+	}
+	.widget-timing ul li span{
+		margin-right: 6px;
+	}
+	/*about us*/
+	.about-thumb{
+		padding-top: 21px;
+	}
+	.about-thumb::before{
+		top: 51px;
+	}
+	.about-text{
+		padding:0px 0 0px 40px;
+	}
+	.about-text .margin{
+		margin-bottom: 25px;
+	}
+	/*blog detail*/
+	.date{
+		padding: 12px 29px 22px;
+	}	/*contact us*/
+	.contact-dec.info ul{
+		padding:28px 30px;
+	}
+	.social-blog{
+		top: 106px;
+	}
+	.social-blog li{
+		margin: 6.5px 0;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 979PX
+=================================================
+*/ 
+@media (max-width: 991px) {
+	.gallery3-slider-wrap .gallery3-slider{
+		width: 33.3%;
+	}
+	.team-detail .text{
+		padding: 30px;
+	}
+	.social-blog li{
+		margin: 10px 0;
+	}
+	.kode-menu{
+		display: none;
+	}
+	#kode-responsive-navigation{
+		display: block;
+	}
+	.logo-wrap{
+		padding: 17px 0;
+	}
+	.logo-wrap .col-md-7{
+		width: 100%;
+	}
+	.logo-wrap .container{
+		position: relative;
+	}
+	.logo-wrap #kode-responsive-navigation.sticky {
+	    display: none;
+	}
+	.logo-wrap #kode-responsive-navigation {
+	    position: absolute;
+	    right: 15px;
+	    top: 0;
+	}
+	.logo-wrap .cart{
+		display: none;
+	}
+	.kode-caption h4{
+		font-size: 25px;
+	}
+	.inner-banner{
+		padding-top: 310px;
+	}
+	.inner-banner-wrap::before{
+		border-width: 60px 0 0 700px;
+	}
+	.inner-banner-wrap::after{
+		border-width: 0 0 60px 700px;
+	}
+	.kode-caption h4::before{
+		border-width: 42px 30px 0 0;
+	}
+	.kode-caption h3::before{
+		border-width:0 0 39px 30px;
+	}
+	.kode-caption h3{
+		font-size: 30px;
+		margin-bottom: 85px;
+	}
+	.kode-caption{
+		margin:-2px 0 0 -289px;
+	}
+	.traning-overlay{
+		width: 50%;
+	}
+	.traning-overlay.overlay3{
+		display: none;
+	}
+	.thumb-image{
+		padding: 30px;
+		width: 100%;
+	}
+	.thumb-image::after{
+		left: 0px;
+		right: 0px;
+		top: 0px;
+		bottom: 0px;
+	}
+	.thumb-image{
+		padding:0; 
+	}
+	.thumb-image::before{
+		opacity: 0;
+	}
+	.thumb-caption {
+	    left: 0;
+	    margin-top: -284px;
+	    padding: 90px;
+	    position: absolute;
+	    right: 0;
+	    top: 50%;
+	    width: 100%;
+	    z-index: 10;
+	}
+	.class-dec:hover .over-lay{
+		margin-top: -72px;
+	}
+	.thumb-image img{
+		opacity: 0.3;
+	}
+	.class-dec:hover .over-lay h3,
+	.over-lay h3{
+		font-size: 20px;
+		line-height: 20px;
+		padding: 10px 0;
+	}
+	.over-lay p{
+		padding: 0 25px;
+	}
+	.over-lay .btn-1{
+		padding: 10px;
+		font-size: 14px;
+	}
+	.counter-wrap li{
+		width: 24%;
+		margin: 0;
+	}
+	.counter-dec{
+		text-align: center;
+	}
+	.counter-dec > span{
+		width: 100px;
+		height: 100px;
+		line-height: 100px;
+		float: none;
+		display: inline-block;
+	}
+	.counter-dec .text {
+    	float: left;
+	    padding: 15px 0 0;
+	    text-align: center;
+	    width: 100%;
+	}
+	.social-wrap{
+		margin-top: -157px;
+	}
+	.social-wrap li{
+		height: 45px;
+	}
+	.social-wrap li a{
+		line-height: 45px;
+	}
+	.traniers-caption{
+		left: 30px;
+		margin-top: -87px;
+		text-align: center;
+	}
+	.ready-wrap{
+		padding: 80px 0;
+	}
+	.ready-dec{
+		width: 100%;
+		text-align: center;
+	}
+	.ready-dec .btn-1{
+		float: none;
+		display: inline-block;
+	}
+	.blog-dec .text h4{
+		font-size: 18px;
+		line-height: 18px;
+	}
+	.blog-meta li{
+		margin-right: 7px;
+		font-size: 14px;
+	}
+	.blog-meta li i{
+		margin-right: 5px;
+	}
+	.blog-meta li a{
+		font-size: 13px;
+	}
+	.gallery-thumb {
+	    width: 49.97%;
+	}
+	.gallery2-thumb {
+	    width: 100%;
+	}
+	.testimonial-wrap .bx-viewport{
+		height: unset;
+	}
+	.testimonial-dec{
+		padding: 0 50px;
+	}
+	.gym-footer .widget{
+		margin-bottom: 30px;
+	}
+	.gym-footer .widget.widget-flickr,
+	.gym-footer .widget.widget-timing{
+		margin-bottom: 0;
+	}
+	.widget-contact ul li{
+		margin-bottom: 14px;
+	}
+	/*about us*/
+	.aboutus-wrap .container > .row{
+		position: relative;
+	}
+	.about-thumb{
+		width: 100%;
+		padding: 0;
+		background-color: #fff;	
+	}
+	.about-thumb img{
+		opacity: 0.25;
+	}
+	.about-thumb::before{
+		right: 20px;
+		bottom: 20px;
+		top: 20px;
+		bottom: 20px;
+	}
+	.about-text{
+		padding:0 60px;
+		position: absolute;
+		top: 50%;
+		left: 0;
+		right: 0;
+		width: 100%;
+		margin-top: -175px;
+		z-index: 100;
+	}
+	.map-dec #map-canvas,
+	.map-dec{
+		height: 250px;
+	}
+	.class-timing{
+		margin-bottom: 0;
+	}
+	.gallery2-thumb .overly-caption{
+		top: 50px;
+		left: 50px;
+	}
+	.gallery2-thumb .overlay-links{
+		bottom: 50px;
+		left: 50px;
+	}
+	.comingsoon-dec form{
+		margin-bottom: 125px;
+	}
+	.comingsoon-caption span {
+	    font-size: 100px;
+	}
+}
+/*
+=================================================
+			FROM 768PX TO 979PX
+=================================================
+*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 767PX
+=================================================
+*/
+@media (max-width: 767px) {
+	.gallery3-slider-wrap .gallery3-slider{
+		width: 100%;
+	}
+	.absolute{
+		position: static;
+	}
+	.hidden-responcive{
+		display: none;
+	}
+	.top-contact{
+		width: 50%;
+	}
+	.kode-caption {
+	    margin:-86px 0 0 -158px;
+	}
+	.kode-caption h3{
+		margin-bottom: 45px;
+	}
+	.thumb-caption{
+		padding: 40px;
+		margin-top: -260px;
+	}
+	.traning-overlay {
+	    padding: 40px;
+	    text-align: center;
+	    width: 100%;
+	}
+	.counter-wrap li{
+		width: 25%;
+		margin: 0;
+		float: left;
+	}
+	.counter-dec{
+		text-align: center;
+	}
+	.counter-dec span{
+		float: none;
+		display: inline-block;
+	}
+	.counter-dec .text{
+		padding-left: 0;
+		text-align: center;
+		width: 100%;
+	}
+	.blog-dec .text h4{
+		font-size: 25px;
+		line-height: 25px;
+	}
+	.blog-dec.blog-listing .text h4{
+		overflow: hidden;
+	    text-overflow: ellipsis;
+	    text-transform: capitalize;
+	    white-space: nowrap;
+	}
+	.blog-slider #bx-pager > a{
+		margin: 0 0.4% 0 0;
+	}
+	.kf-pagination .pagination > li:last-child > a, .pagination > li:last-child > span, .kf-pagination .pagination > li:first-child > a, .pagination > li:first-child > span{
+		width: 90px;
+	}
+	.blog-meta li {
+	    font-size: 16px;
+	    margin-right: 30px;
+	}
+	.blog-meta li i {
+	    margin-right: 10px;
+	}
+	.gallery-thumb {
+	    width: 99.97%;
+	}
+	.overly-caption{
+		left: 15px;
+		top: 15px;
+	}
+	.overly-caption h5{
+		font-size: 18px;
+	}
+	.overly-caption a{
+		margin-right: 2px;
+	}
+	.overlay-links{
+		bottom: 15px;
+		right: 15px;
+	}
+	.gym-footer .widget.widget-timing{
+		margin-bottom: 30px;
+	}
+	.gallery-1 .button{
+		margin: 0 8px; 
+	}
+	.brand-info{
+		line-height: normal;
+	}
+	.copyright_wrap{
+		text-align: center;
+	}
+	.copyright_wrap p{
+		float: none;
+		margin-bottom: 24px;
+	}
+	.copyright_wrap .social-wrap-2{
+		width: 100%;
+	}
+	.copyright_wrap .social-wrap-2 li{
+		float: none;
+		display: inline-block;
+	}
+	/*about us*/
+	.inner-banner{
+		padding: 69px 0 77px;
+	}
+	.inner-banner-wrap::before{
+		border-width: 50px 0 0 380px;
+	}
+	.inner-banner-wrap::after{
+		border-width: 0 0 50px 380px;
+	}
+	.about-text{
+		margin-top: -158px
+	}
+	.about-text p.margin{
+		display: none;
+	}
+	.date{
+		padding: 2px 29px 12px;
+		font-size: 26px;
+	}
+	.date b{
+		font-size: 16px;
+	}
+	.social-blog {
+	    margin-top: -50px;
+	    text-align: center;
+	    top: 100%;
+	    width: 100%;
+	}
+	.social-blog li {
+	    display: inline-block;
+	    float: none;
+	    margin: 0 30px 0 0;
+	    width: auto;
+	}
+	.social-blog a {
+	    padding: 11px 0;
+	}
+	.blog-detail .blog-dec .text h4 {
+	    font-size: 25px;
+	    line-height: 25px;
+	    overflow: hidden;
+	    text-overflow: ellipsis;
+	    white-space: nowrap;
+	}
+	.tag-wrap{
+		margin-bottom: 30px;
+	}
+	.tag-wrap .social-3{
+		width: 100%;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.tag-wrap .social-3 li{
+		display: inline-block;
+		float: none;
+	}
+	.tag-wrap .blog-meta{
+	    width: 100%;
+	    text-align: center;
+	}
+	.tag-wrap .blog-meta li{
+		display: inline-block;
+		float: none;
+	}
+	.comment-dec figure{
+		width: 80px;
+		height: 80px;
+		border-width: 2px;
+	}
+	.contact-wrap .input-dec textarea, .contact-wrap .input-dec input[type="text"]{
+		margin-bottom: 40px;
+	}
+	.top-contact-wrap{
+		display: none;
+	}
+	/*404*/
+	.caption-404{
+		margin-top: -272px;
+	}
+	.caption-404 span {
+	    font-size: 150px;
+	    margin-bottom: 40px;
+	}
+	.caption-404 h4{
+		font-size: 18px;
+	}
+	.caption-404 h5{
+		font-size: 18px;
+	}
+	.team-tumb{
+		margin-bottom: 30px;
+	}
+	.accordian-wrap{
+		margin-bottom: 30px;
+	}
+	.comingsoon-caption{
+		margin-top:-241px; 
+	}
+	.comingsoon-caption span{
+		font-size: 62px;
+		line-height: 62px;
+		margin-bottom: 40px;	
+	}
+	.comingsoon-dec form{
+		margin-bottom: 40px;
+	}
+	.countdown-dec{
+		margin-bottom: 30px;
+	}
+
+	.countdown-dec h4::before {
+	    bottom: 6px;
+	    left: 6px;
+	    right: 6px;
+	    top: 6px;
+	}
+	.countdown-dec h4 {
+	    height: 95px;
+	    line-height: 95px;
+	    width: 95px;
+	    display: inline-block;
+	    float: none;
+	}
+	.countdown-dec{
+		text-align: center;
+	}
+	.comingsoon-dec ul.row {
+	    width: 100%;
+	}
+	.comingsoon-dec {
+	    float: left;
+	    width: 100%;
+	}
+	.social4-dec{
+		width: 100%;
+	}
+	.gallery2-thumb {
+	    width: 100%;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (max-width: 480px) {
+
+	.top-bar .pull-right,
+	.top-bar .pull-left{
+		width: 100%;
+		text-align: center;
+	}
+	.top-bar span{
+		text-align: center;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.social-top{
+		width: 100%;
+		text-align: center;
+	}
+	.social-top li{
+		display: inline-block;
+		float: none;
+	}
+	.top-contact{
+		width: 100%;
+	}
+	.kode-caption {
+	    margin: -53px 0 0 -124px;
+	}
+	.kode-caption .btn-1{
+		display: none;
+	}
+	.kode-caption h3{
+		font-size: 20px;
+	}
+	.kode-caption h4{
+		font-size: 15px;
+	}
+	.kode-caption h4::before {
+	    border-width: 29px 22px 0 0;
+	    right: -20px;
+	}
+	.kode-caption h3::before {
+	    border-width:0 0 29px 22px ;
+	    left: -20px;
+	}
+	.kf-gym-banner .bx-wrapper .bx-controls-direction a{
+		margin-top: 29px;
+	}
+	.traning-overlay h4{
+		font-size: 24px;
+		line-height: 24px;
+	}
+	.thumb-outerwrap{
+		text-align: left;
+		padding: 0;
+	}
+	.thumb-image{
+		display: none;
+	}
+	.thumb-caption{
+		position: static;
+		padding: 0;
+		margin: 0;
+	}
+	.thumb-des{
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	.thumb-des span{
+		width: 50px;
+		height: 50px;
+		line-height: 50px;
+		display: inline-block;
+		float: none;
+	}
+	.thumb-des .text{
+		float: left;
+		width: 100%;
+		padding: 20px;
+		text-align: center;
+	}
+	.thumb-des .text p{
+		line-height: 24px;
+	}
+	.counter-wrap li{
+		width: 100%;
+		margin-bottom: 25px;
+	}
+	.counter-dec > span {
+	    height: 120px;
+	    line-height: 120px;
+	    width: 120px;
+	}
+	.social-wrap li {
+	    height: 38px;
+	}
+	.social-wrap {
+	    margin-top: -133px;
+	}
+	.ready-dec{
+		text-align: center;
+	}
+	.ready-dec h2{
+		font-size: 24px;
+		line-height: 24px;
+	}
+	.ready-dec .btn-1{
+		margin-top: 30px;
+		float: none;
+	}
+	.ready-dec .btn-1.active{
+		margin-top: 30px;
+		float: none;
+	}
+	.heading-1 h2{
+		font-size: 26px;
+		line-height: 26px;
+	}
+	.blog-dec{
+		padding: 63px 0 0 0;
+	}
+	.blog-meta li{
+		margin-right: 4px;
+	}
+	.blog-side-meta {
+	    left: 0;
+	    padding: 0;
+	    position: absolute;
+	    width: 100%;
+	}
+	.blog-side-meta > li {
+	    border: medium none;
+	    float: left;
+	    margin: 0 20px 0 0;
+	    text-align: left;
+	    width: auto;
+	}
+	.blog-side-meta > li:last-child{
+		margin: 0;
+	}
+	.blog-side-meta li:first-child{
+		padding: 15px 0 12px;
+	}
+	.blog-side-meta span{
+		font-size: 20px;
+	}
+	.blog-side-meta b{
+		display: inline-block;
+		font-size: 20px;
+		width: auto;
+		float: none;
+		margin: 0 0 0 3px;
+		line-height: 18px;
+	}
+	.blog-side-meta figure{
+		display: none;
+	}
+	.blog-side-meta p {
+	    font-size: 20px;
+	}
+
+	.blog-dec .text h4{
+		overflow: hidden;
+	    text-overflow: ellipsis;
+	    text-transform: capitalize;
+	    white-space: nowrap;
+	}
+	.gallery-1 .button {
+	    display: inline-block;
+	    margin: 0 0 10px;
+	    text-align: center;
+	    width: 100%;
+	}
+	.gallery-thumb {
+	    width: 100%;
+	}
+	.price-tag{
+		padding: 0 30px;
+	}
+	.testimonial-dec{
+		padding: 0;
+	}
+	.testimonial-wrap .bx-wrapper{
+		padding: 0 0 20px 0;
+	}
+	/*about us*/
+	.about-thumb{
+		width: 100%;
+	}
+	.about-text{
+		position: static;
+		padding: 30px 30px 0px 30px;
+		width: 100%;
+		left: 0;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		margin-top: 0;
+		text-align: center;
+	}
+	.about-text .heading-2{
+		text-align: center;
+	}
+	.about-text .heading-2 h2:after,
+	.about-text .heading-2 h2:before{
+		right: 0;
+		margin: auto;
+	}
+	.about-thumb::before{
+		left: 15px;
+		right: 15px;
+		top: 15px;
+		bottom: 15px;
+	}
+	.traniers-caption{
+		margin-top: -111px;
+	}
+	/*blog 3*/
+	.kf-pagination .pagination > li > a{
+		padding: 7px 0 9px;
+		height: 40px;
+		width: 30px;
+	}
+	.kf-pagination .pagination > li:last-child > a, 
+	.pagination > li:last-child > span, .kf-pagination .pagination > li:first-child > a, 
+	.pagination > li:first-child > span{
+		width: 70px;
+	}
+	.kf-pagination .pagination > li:first-child > a{
+		padding-right: 1px;
+	}
+	.kf-pagination .pagination > li:first-child > a span{
+		margin: 0 2px 0 0;
+	}
+	.kf-pagination .pagination > li:last-child > a{
+		padding-left: 1px;
+	}
+	.kf-pagination .pagination > li:last-child > a span{
+		margin: 0 0 0 2px;
+	}
+	.kf-pagination .pagination > li:first-child a::before{
+		border-width: 20px 15px 20px 0;
+		left: -15px;
+	}
+	.kf-pagination .pagination > li:last-child a::before{
+		border-width: 20px 0 20px 15px;
+		right: -15px;
+	}
+	/*blog detail*/
+	.blog-detail .blog-meta li{
+		margin-right: 8px;
+	}
+	.tag-wrap .blog-meta,
+	.tag-wrap .social-3{
+		width: 100%;
+		text-align: center;
+	}
+	.tag-wrap .blog-meta li,
+	.tag-wrap .social-3 li{
+		display: inline-block;
+		float: none;
+		margin: 0;
+	}
+	.comment-dec{
+		text-align: center;
+	}
+	.comment-dec figure{
+		float: none;
+		display: inline-block;
+		margin:0 0 20px 0;
+	}
+	.comment-dec .text{
+		text-align: left;
+		width: 100%;
+		padding-right: 49px;
+	}
+	.comment-heading{
+		text-align: center;
+	}
+	.comment-heading em{
+		display: inline-block;
+		float: none;
+	}
+	.second-comment{
+		padding: 0;
+	}
+	.blog-slider #bx-pager > a{
+		margin:0;
+	}
+	.inner-banner h2{
+		font-size: 30px;
+	}
+	.blog-dec .text h4 {
+	    font-size: 20px;
+	    line-height: 20px;
+	}
+	.gallery2-thumb .overly-caption {
+	    left: 40px;
+	    top: 40px;
+	}
+	.gallery2-thumb .overlay-links {
+	    bottom: 40px;
+	    left: 40px;
+	    right: inherit;
+	}
+	.gallery3-slider figcaption{
+		padding-bottom: 10px;
+	}
+	.inner-banner-wrap::before {
+	    border-width: 50px 0 0 280px;
+	}
+	.inner-banner-wrap::after {
+	    border-width: 0 0 50px 280px;
+	}
+		.contact-dec.info ul {
+	    padding: 30px;
+	}
+	/*404*/
+	.caption-404 {
+	    margin-top: -166px;
+	}
+	.caption-404 span{
+		line-height: 75px;
+		font-size: 75px;
+		margin-bottom: 30px;
+	}
+	.caption-404 h3{
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	.caption-404 h6{
+		margin-bottom: 20px;
+		font-size: 16px;
+	}
+	.caption-404 h4{
+		font-size: 12px;
+	}
+	.caption-404 h5{
+		font-size: 12px;
+	}
+	.timing-dec li span{
+		margin:0; 
+	}
+	.comingsoon-caption {
+	    margin-top: -301px;
+	}
+	.comingsoon-dec .col-md-3.col-sm-3.col-xs-3{
+		width: 50%;
+	}
+	.comingsoon-caption span {
+		font-size: 36px;
+	    line-height: 36px;
+	    margin-bottom: 30px;
+	}
+	.coming-soon{
+		padding-bottom: 828px;
+	}
+	.team-detail .text {
+	    padding: 20px;
+	}
+	.gallery-1 #filterable-item-filter-1 li{
+		width: 100%;
+	}
+	.gallery-1 #filterable-item-filter-1 li a{
+		margin: 0;
+	}
+}

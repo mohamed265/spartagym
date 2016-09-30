@@ -1,0 +1,321 @@
+/*
+========================================================================================================================
+		   							GYM VERSION COLORS
+========================================================================================================================
+*/
+/*
+============================================================
+		   Font Color
+============================================================
+*/
+/*home page*/
+.social-top li a:hover,
+.load-more .btn-3:hover,
+.overly-caption a:hover,
+.blog-listing .social-blog li a:hover,
+.product-dec .text > h4:hover a,
+.caption-404 h3,
+.kode_choose:before,
+.team-tumb ul li a:hover,
+.contact-wrap form .btn-1:hover,
+.rtpost-dec .text > span i,
+.widget-search form button,
+.blog-meta li i,
+.blog-dec .text > a,
+.blog-meta li a:hover,
+.blog-side-meta a i,
+.gallery-1 .button.is-checked,
+.gallery-1 .button:hover,
+.thumb-des:hover span,
+.thumb-des:hover .text h5 a,
+.traning-overlay h6,
+.price,
+.blog-3-dec .text h5:hover a,
+.about-text .btn-2:hover,
+.blog-side-meta b,
+.gallery-1 .btn-1:hover,
+.testimonial-dec .text h4 a,
+.widget-contact ul li span,
+.widget-timing ul li,
+.class-dec:hover .over-lay h3,
+.blog-3-dec .text > a:hover,
+.traniers-thumb .traniers-caption h5 a:hover,
+.comment-dec:hover .comment-heading > h6 a,
+.input-dec textarea:focus,
+.input-dec input[type="text"]:focus,
+.contact-page form .btn-1:hover,
+.contact-dec.info .text > a:hover,
+.branch li a:hover,
+.blog-dec .text h4:hover a,
+.rtpost-dec .text h6:hover a,
+.top-contact i,
+.inner-banner .breadcrumb > .active,
+.widget-contact ul li a:hover,
+.gallery-1 #filterable-item-filter-1 li a:hover,
+.gallery-1 #filterable-item-filter-1 li a.active
+{
+	color: #0297dc;
+}
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+/*home page*/
+.date,
+.timing-dec li a,
+.rtpost-dec figure:before,
+.heading-3 h4:before,
+.gallery1-dec figure figcaption a,
+.gallery1-dec figure:before,
+.blog-3-dec figure:before,
+.price-table:hover,
+.overly-caption:before,
+.overlay-links a,
+.gallery2-thumb::before,
+.testimonial-wrap .bx-wrapper .bx-controls-direction a:hover,
+.product-dec .bx-wrapper .bx-pager.bx-default-pager a.active,
+.thumb-des span,
+.btn-1,
+.btn-2,
+.btn-3,
+.btn-1.effect span,
+.btn-2.effect span,
+.btn-1.effect span::before,
+.btn-2.effect span::before,
+.social-wrap-2 li a:before,
+.blog-dec:hover figure:before,
+.gallery-1 .button.is-checked:before,
+.heading-1 h2:before,
+.heading-1 h2:after,
+.footer-hd h5:before,
+.footer-hd h5:after,
+.contact-dec:hover > h6,
+.product-dec .bx-wrapper figure figcaption,
+.traniers-thumb:hover .figcaption,
+.traniers-thumb .social-wrap .tooltip-inner,
+.social4-dec .tooltip-inner,
+.kode_progress .tooltip-inner,
+.social-wrap-2 .tooltip-inner,
+.blog-dec .tooltip-inner,
+.blog-3-dec .tooltip-inner,
+.heading-2 h2:before,
+.heading-2 h2:after,
+.reply,
+.blog-dec > figure,
+.contact:hover i,
+.kode_progress .progress-bar,
+.blog-3-dec > figure,
+.widget-categories ul li a:hover,
+.widget-tags ul li a:hover,
+.kode-menu,
+.cart span,
+.kode-caption h4 ,
+.gallery3-slider .bx-wrapper .bx-controls-direction a:hover::before,
+.kf-pagination .pagination > li > a:hover,
+.kf-gym-banner .bx-wrapper a:hover:before,
+.kode_progress .bar,
+.kode-menu ul li a,
+.kode-menu ul li
+{
+	background-color: #0297dc;
+}
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+.contact-dec:hover > h6,
+.contact-dec:hover:before,
+aside .widget:before,
+.blog-slider #bx-pager > a:before,
+.blog-3-dec figure:after,
+.blog-3-dec:hover .blog-hd figure,
+.about-thumb:before,
+.social-wrap-2 li a:hover,
+.btn-1:before,
+.btn-2:before,
+.btn-3:before,
+.product-dec .bx-wrapper .bx-pager.bx-default-pager a,
+.thumb-des span,
+.thumb-image:before,
+.product-dec:hover .text,
+.comment-dec:hover figure,
+.widget-tags ul li a:hover,
+.navigation-wrap
+{
+	border-color: #0297dc;
+}
+.kf-pagination .pagination > li:first-child a:hover:before{
+	border-color: transparent #0297dc transparent transparent;
+}
+.kf-pagination .pagination > li:last-child a:hover:before{
+	border-color: transparent transparent transparent #0297dc;
+}
+/*
+============================================================
+		   Outline Color
+============================================================
+*/
+.blog-3-dec:hover > figure{
+	outline: 2px solid #0297dc;
+}
+/*
+============================================================
+		   Transaction Effect
+============================================================
+*/
+/*home page*/
+.btn-1,
+.btn-2,
+.btn-3,
+.class-dec,
+.contact-dec,
+.contact-dec h6,
+.contact-dec:before,
+.contact i,
+.branch li a,
+.blog-3-dec figure,
+.blog-3-dec figure img,
+.blog-3-dec figure figcaption,
+.contact-dec.info .text > a,
+.traning-overlay:after,
+.traning-overlay:before,
+.traning-overlay,
+.input-dec textarea:focus,
+.input-dec input[type="text"],
+.comment-dec figure,
+.class-dec:before,
+.btn-1:before,
+.btn-2:before,
+.btn-3:before,
+.overlay-links a,
+.gallery-1 .button,
+.traniers-caption h5 a,
+.traninig-thumb,
+.traninig-thumb:after,
+.traninig-thumb:before,
+.thumb-des span,
+.text h5 a,
+.overly-caption,
+.overlay-links,
+.blog-3-dec figure:after,
+.blog-3-dec figure:before,
+.social-wrap-2 li a:before,
+.social-wrap-2 li a,
+.gallery-thumb:before,
+.blog-3-dec .text > a,
+.blog-dec figure figcaption,
+.blog-dec figure figcaption a,
+.blog-3-dec .text h5 a,
+.gallery1-dec figure figcaption a,
+.gallery1-dec figure figcaption,
+.blog-slider #bx-pager > a:before,
+.testimonial-wrap .bx-wrapper .bx-controls-direction a,
+.product-dec .bx-wrapper li figure figcaption,
+.product-dec .text,
+.traniers-thumb,
+.traniers-caption,
+.traniers-thumb:before,
+.social-wrap,
+.blog-meta li a,
+.blog-dec figure:before,
+.blog-dec .text > a ,
+.price-table,
+.price-table,
+.rtpost-dec figure:before,
+.rtpost-dec figcaption,
+.rtpost-dec figcaption a,
+.blog-3-dec figure img,
+.widget-flickr ul li a img,
+.blog-hd figure,
+.gallery1-dec figure:before,
+.price-table:before,
+.blog-3-dec > figure figcaption a,
+.blog-3-dec > figure figcaption,
+.price-table .price small,
+.price-table .price sup,
+.price-table .signup,
+.price-table .table-hd h6,
+.price-table .table-hd span,
+.price-table .price-contant li,
+.price-table .price,.over-lay ,
+.class-dec figure:before,
+.comment-heading > h6 a,
+.reply,
+.team-tumb ul li a,
+.kode_choose:before,
+.input-dec textarea,
+.kode_choose.accordion-open::before,
+.kode_choose.accordion-close::before,
+.accordion-content,
+.product-dec .text > h4 a,
+.blog-dec > figure,
+.blog-dec > figure img,
+.gallery-1 .button::before,
+.gallery-thumb img,
+.gallery-1 .button.is-checked::before,
+.product-content figcaption a,
+.blog-dec .text h4 a,
+.date,
+.overly-caption a,
+.widget-categories ul li a,
+.widget-categories ul li a span,
+.rtpost-dec .text h6 a,
+.widget-instagram > ul li a,
+.widget-instagram > ul li a img,
+.widget-tags ul li a img,
+.widget-tags ul li a,
+.social-top li a,
+.gallery3-slider figcaption,
+.gallery3-slider figure,
+.gallery3-slider .bx-wrapper .bx-controls-direction a,
+.gallery3-slider .bx-wrapper .bx-controls-direction a::before,
+.kode-menu li,
+.kode-menu li a,
+.widget.widget-search input[type="text"],
+.sticky,
+.kf-pagination .pagination > li > a,
+.kf-pagination .pagination > li > a span,
+.kf-pagination .pagination > li > a:before,
+.kf-gym-banner .bx-wrapper a:before,
+.over-lay h3,
+.traniers-thumb .figcaption,
+.kf-gym-banner .kode-caption .btn-1.active,
+.widget-contact ul li a,
+.kode-menu li a::before,
+.kode-menu li a::after,
+.social-3 li a,
+.timing-dec li a,
+.kode-menu li ul,
+.gallery-1 #filterable-item-filter-1 li a
+{
+		transition: all 0.3s ease-in-out;
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+}
+
+
+/*
+	  ============================================================
+		  Content Selection
+	  ============================================================
+*/	
+a:visited{
+	outline: none;
+	-webkit-outline:none;
+}
+::selection {
+	background: #0297dc;
+	color: #ffffff;
+}
+::-webkit-selection {
+ background: #0297dc;
+ color: #ffffff;
+}
+::-moz-selection {
+ background: #0297dc;
+ color: #ffffff;
+}

@@ -1,0 +1,326 @@
+/*
+	  ==============================================================
+		   Widgets
+	  ==============================================================
+*/
+.widget{
+	float: left;
+	width: 100%;
+}
+.widget-text p{
+	margin: 0;
+	float: left;
+	width: 100%;
+	color: #9a9a9a;
+}
+.widget-text .footer-hd{
+	margin-bottom:31px;
+}
+/*WIDGET CONTACT*/
+.widget-contact ul{
+	float: left;
+	width: 100%;
+}
+.widget-contact ul li a,
+.widget-contact ul li{
+	float: left;
+	width: 100%;
+	margin-bottom: 25px;
+	font-size: 16px;
+	line-height: 16px;
+	color: #9a9a9a;
+}
+.widget-contact ul li a{
+	margin: 0;
+	width: auto;
+}
+.widget-contact ul li span{
+	float: left;
+	font-size: 16px;
+	line-height: 16px;
+	margin-right: 15px;
+}
+.widget-contact ul li:last-child{
+	margin: 0;
+}
+.widget-contact .footer-hd{
+	margin-bottom:40px;
+}
+/*WIDGET TIMING*/
+.widget-timing .footer-hd{
+	margin-bottom:37px;
+}
+.widget-timing ul{
+	float: left;
+	width: 100%;
+}
+.widget-timing ul li{
+	float: left;
+	width: 100%;
+	margin-bottom: 25px;
+	font-size: 16px;
+	line-height: 16px;
+}
+.widget-timing ul li span{
+	float: left;
+	font-size: 16px;
+	line-height: 16px;
+	margin-right: 15px;
+}
+.widget-timing ul li:last-child{
+	margin: 0;
+}
+/*WIDGET FLICKR*/
+.widget-flickr ul{
+	float: none;
+	margin: 0 0 0 -9px
+}
+.widget-flickr ul li{
+	float: left;
+	width: auto;
+	margin:10px 0 0 9px; 
+}
+.widget-flickr ul li a img{
+	-webkit-filter: blur(0.5px);
+	opacity: 0.7;
+	filter: blur(0.5px);
+	background-color: #fff;
+}
+.widget-flickr ul li:hover a img{
+	-webkit-filter: blur(0px);
+	opacity: 1;
+	filter: blur(0px);
+}
+/*aside widget*/
+aside .widget{
+	margin-bottom: 50px;
+	padding: 35px 25px 28px;
+	position: relative;
+	box-shadow: 0 1px 10px 0 rgba(2, 151, 220, 0.15); 
+	-webkit-box-shadow: 0 1px 10px 0 rgba(2, 151, 220, 0.15);
+	-moz-box-shadow: 0 1px 10px 0 rgba(2, 151, 220, 0.15)
+}
+aside .widget:before{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	border: 1px solid;
+	content: "";
+	opacity: 0.30;
+}
+.widget.widget-search{
+	border: none;
+	-moz-box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.10);
+	-webkit-box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.10);
+	box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.10);
+	padding: 0;
+}
+.widget-search form{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.widget-search form input[type="text"]{
+	float: left;
+	width: 100%;
+	height: auto;
+	line-height: normal;
+	padding: 11px 60px 11px 25px;
+	font-size: 16px;
+	text-transform: capitalize;
+	border: none;
+	color: #999999;
+}
+.widget.widget-search input[type="text"]:focus{
+	box-shadow: inset  0 1px 10px 0 rgba(2, 151, 220, 0.15);
+	-webkit-box-shadow: inset  0 1px 10px 0 rgba(2, 151, 220, 0.15);
+	-moz-box-shadow: inset  0 1px 10px 0 rgba(2, 151, 220, 0.15);
+}
+.widget-search form button{
+	position: absolute;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	height: 100%;
+	line-height: 42px;
+	background: transparent;
+	font-size: 16px;
+	padding: 0 25px;
+}
+/*CATEGORIES*/
+.widget-categories .heading-3{
+	margin-bottom: 26px;
+}
+.widget-categories ul{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.widget-categories ul li{
+	float: left;
+	width: 100%;
+	border-top:1px solid #dedede; 
+}
+.widget-categories ul li:first-child{
+	border: none;
+}
+.widget-categories ul li a{
+	float: left;
+	width: 100%;
+	text-align: left;
+	font-size: 16px;
+	color: #666666;
+	line-height: 12px;
+	text-transform: capitalize;
+	padding: 15px 0 17px;
+}
+.widget-categories ul li a:hover{
+	padding-left:15px; 
+	padding-right:15px; 
+	color: #fff;
+}
+.widget-categories ul li a:hover span{
+	color: #fff;
+}
+.widget-categories ul li a span{
+	float: right;
+	font-size: 16px;
+	color: #666666;
+	line-height: 12px;
+	text-transform: capitalize;
+}
+/*RECENT POST*/
+.widget.widget-recent-post{
+	padding-bottom: 21px;
+}
+.widget-recent-post .heading-3{
+	margin-bottom: 40px;
+}
+.rtpost-dec{
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.widget-recent-post .rtpost-dec:last-child {
+    margin: 0;
+}
+.rtpost-dec figure:before{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	content: "";
+	opacity: 0;
+}
+.rtpost-dec:hover figure:before{
+	right: 10px;
+	left: 10px;
+	top: 10px;
+	bottom: 10px;
+	opacity: 0.70;
+}
+.rtpost-dec figcaption {
+    font-size: 20px;
+    left: 0;
+    margin-top: -15px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 50%;
+    opacity: 0;
+}
+.rtpost-dec:hover figcaption{
+	opacity: 1;
+}
+.rtpost-dec figcaption a{
+	color: #fff;
+}
+.rtpost-dec figcaption a:hover{
+	color: #000;
+}
+.rtpost-dec .text {
+    padding: 20px 0;
+    position: relative;
+}
+.rtpost-dec .text h6 {
+    float: left;
+    font-size: 16px;
+    line-height: 15px;
+    width: 100%;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+.rtpost-dec .text > span {
+    float: left;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 12px;
+    padding-bottom: 1px;
+    width: 100%;
+}
+.rtpost-dec .text > span i{
+	font-size: 12px;
+	margin-right: 10px;
+	line-height: 12px;
+}
+/*INSTAGRAM*/
+.widget.widget-instagram{
+	padding-bottom: 41px;
+}
+.widget-instagram .heading-3{
+	margin-bottom: 40px;
+}
+.widget-instagram > ul {
+    float: left;
+    margin: -5px;
+    width: auto;
+    position: relative;
+}
+.widget-instagram > ul li {
+    float: left;
+    padding: 5px;
+    width: 33.3%;
+}
+.widget-instagram > ul li a{
+	float: left;
+	width: 100%;
+}
+.widget-instagram > ul li a img{
+	float: left;
+	width: 100%;
+}
+.widget.widget-instagram li a:hover img{
+	opacity: 0.5;
+}
+/*tags*/
+.widget.widget-tags{
+	padding-bottom: 40px;
+}
+.widget-tags .heading-3{
+	margin-bottom: 30px;
+}
+.widget-tags ul{
+	float: none;
+    position: relative;
+    margin-left: -10px;
+}
+.widget-tags ul li{
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: auto;
+}
+.widget-tags ul li a{
+	display: block;
+	font-size: 16px;
+	line-height: 16px;
+	border: 1px solid #e6e6e6;
+	padding: 12px 15px;
+	font-family: 'Lato', sans-serif;
+}
+.widget-tags ul li a:hover{
+	color: #fff;
+}
