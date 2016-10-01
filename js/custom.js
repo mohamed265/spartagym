@@ -260,8 +260,8 @@ jQuery(window).load(function($) {
 	
 	function initialize() {
 		var MY_MAPTYPE_ID = 'custom_style';
-		var map;
-		var brooklyn = new google.maps.LatLng(40.6743890, -73.9455);
+		var map; 
+		var brooklyn = new google.maps.LatLng(29.97563, 30.935);
 		var featureOpts = [
 		    {
 	        "featureType": "road",
@@ -308,7 +308,7 @@ jQuery(window).load(function($) {
 		];	
 
 		var mapOptions = {
-			zoom: 13,
+			zoom: 15,
 			scrollwheel: false,
 			center: brooklyn,
 			mapTypeControlOptions: {

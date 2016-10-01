@@ -243,7 +243,7 @@ section{
 	height: 0;
 	border-style: solid;
 	border-width: 0 7px 7px 0;
-	border-color: transparent #0297dc transparent transparent;
+	border-color: transparent #FECA04 transparent transparent;
 }
 .kode-menu:after{
 	position: absolute;
@@ -254,7 +254,7 @@ section{
 	height: 0;
 	border-style: solid;
 	border-width: 7px 7px 0 0;
-	border-color: #0297dc transparent transparent 
+	border-color: #FECA04 transparent transparent 
 }
 */
 .kode-menu li {
@@ -323,7 +323,7 @@ section{
     display: none;
 }
 .kode-menu ul::before {
-    border-color: transparent transparent #0297dc;
+    border-color: transparent transparent #FECA04;
     border-style: solid;
     border-width: 0 5px 8px;
     content: "";
@@ -465,7 +465,7 @@ section{
 	bottom: 0;
 	border-style: solid;
 	border-width: 67px 30px 0 0;
-	border-color: #0297dc transparent transparent transparent;
+	border-color: #FECA04 transparent transparent transparent;
 }
 .kode-caption h3 {
     background: #000;
@@ -503,7 +503,7 @@ section{
 	text-align: center;
 }
 .inner-banner-wrap::before {
-    border-color: transparent transparent transparent #0297dc;
+    border-color: transparent transparent transparent #FECA04;
     border-style: solid;
     border-width: 60px 0 0 950px;
     bottom: 0;
@@ -517,7 +517,7 @@ section{
 }
 .inner-banner-wrap::after {
     border-width: 0 0 60px 950px;
-	border-color: transparent transparent #0297dc transparent;
+	border-color: transparent transparent #FECA04 transparent;
 	border-style: solid;
     bottom: 0;
     content: "";
@@ -3383,7 +3383,7 @@ section{
 }
 .kode_progress .progressbars.progress_single{
 	height: 100%;
-	background-color: #0297dc;
+	background-color: #FECA04;
 }
 .kode_progress .progressbars.progress_single > span {
     color: #999;

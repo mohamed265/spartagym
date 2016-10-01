@@ -54,7 +54,7 @@
 .gallery-1 #filterable-item-filter-1 li a:hover,
 .gallery-1 #filterable-item-filter-1 li a.active
 {
-	color: #0297dc;
+	color: #FECA04;
 }
 /*
 	  ============================================================
@@ -118,7 +118,7 @@
 .kode-menu ul li a,
 .kode-menu ul li
 {
-	background-color: #0297dc;
+	background-color: #FECA04;
 }
 /*
 	  ============================================================
@@ -144,13 +144,13 @@ aside .widget:before,
 .widget-tags ul li a:hover,
 .navigation-wrap
 {
-	border-color: #0297dc;
+	border-color: #FECA04;
 }
 .kf-pagination .pagination > li:first-child a:hover:before{
-	border-color: transparent #0297dc transparent transparent;
+	border-color: transparent #FECA04 transparent transparent;
 }
 .kf-pagination .pagination > li:last-child a:hover:before{
-	border-color: transparent transparent transparent #0297dc;
+	border-color: transparent transparent transparent #FECA04;
 }
 /*
 ============================================================
@@ -158,7 +158,7 @@ aside .widget:before,
 ============================================================
 */
 .blog-3-dec:hover > figure{
-	outline: 2px solid #0297dc;
+	outline: 2px solid #FECA04;
 }
 /*
 ============================================================
@@ -308,14 +308,14 @@ a:visited{
 	-webkit-outline:none;
 }
 ::selection {
-	background: #0297dc;
+	background: #FECA04;
 	color: #ffffff;
 }
 ::-webkit-selection {
- background: #0297dc;
+ background: #FECA04;
  color: #ffffff;
 }
 ::-moz-selection {
- background: #0297dc;
+ background: #FECA04;
  color: #ffffff;
 }
